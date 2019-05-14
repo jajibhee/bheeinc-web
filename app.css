@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   background-color: #fff;
 }
 
@@ -7,9 +8,9 @@ body {
   font-size: 2rem;
   animation: secs 4s ease-in-out infinite;
 }
-.bhee {
-  width: max-xontent;
-  height: max-xontent;
+
+.bhee img {
+  width: 100%;
 }
 
 @keyframes secs {
