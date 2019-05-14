@@ -1,0 +1,25 @@
+body {
+  background-color: #fff;
+}
+
+.header {
+  text-align: center;
+  font-size: 2rem;
+  animation: secs 4s ease-in-out infinite;
+}
+.bhee {
+  width: max-xontent;
+  height: max-xontent;
+}
+
+@keyframes secs {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
